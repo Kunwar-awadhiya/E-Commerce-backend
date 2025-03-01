@@ -26,7 +26,8 @@ export const newUser =  async(
             message: `Welcome , ${user.name}`,
         });
 
-    } catch(error) {}
+    } catch(error) {
+}
 };
 
 
